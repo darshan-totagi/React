@@ -4,11 +4,11 @@ This allows functional components to have and manage their own state, similar to
 
 
 Key Features:
-Uses useState to create a reactive state variable.
+-->Uses useState to create a reactive state variable.
 
-Displays the current count to the user.
+-->Displays the current count to the user.
 
-Increments the count each time the button is clicked.
+-->Increments the count each time the button is clicked.
 
 Explaination:
 useState(0): Initializes a state variable count with the value 0.
